@@ -15,6 +15,7 @@ const SidebarHeader = props => {
                 </a>
             )
         }
+        return <></>
     }
     const HeaderMain = props => {
         const {theme, md_text, md_link, config} = props;
